@@ -1,5 +1,7 @@
--- Transfer Limits Table
-CREATE TABLE IF NOT EXISTS transfer_limits (
+-- Recreate Transfer Limits Table to include all columns (like monthly_limit)
+DROP TABLE IF EXISTS transfer_limits CASCADE;
+
+CREATE TABLE transfer_limits (
     id BIGSERIAL PRIMARY KEY,
     privilege VARCHAR(10) UNIQUE,
     daily_limit NUMERIC(15, 2) NOT NULL DEFAULT 100000.00,
