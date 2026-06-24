@@ -1,0 +1,12 @@
+[2026-06-21T15:59:44.375254] | Account: 1003 | Type: DEPOSIT | Amount: ₹1000.0 | RefID: True | Description: N/A
+[2026-06-21T15:59:45.343282] | Account: 1003 | Type: WITHDRAW | Amount: ₹500.0 | RefID: True | Description: N/A
+[2026-06-21T15:59:47.861832] | Account: 1003 | Type: TRANSFER | Amount: ₹500.0 | RefID: 123 | Description: N/A
+[2026-06-21T16:03:02.833851] | Account: 1003 | Type: DEPOSIT | Amount: ₹1000.0 | RefID: True | Description: N/A
+[2026-06-21T16:03:03.707419] | Account: 1003 | Type: WITHDRAW | Amount: ₹500.0 | RefID: True | Description: N/A
+[2026-06-21T16:03:04.704168] | Account: 1003 | Type: TRANSFER | Amount: ₹500.0 | RefID: 123 | Description: N/A
+[2026-06-21T16:15:57.983153] | Account: 1003 | Type: DEPOSIT | Amount: ₹1000.0 | RefID: True | Description: N/A
+[2026-06-21T16:15:59.110742] | Account: 1003 | Type: WITHDRAW | Amount: ₹500.0 | RefID: True | Description: N/A
+[2026-06-21T16:16:00.197854] | Account: 1003 | Type: TRANSFER | Amount: ₹500.0 | RefID: 123 | Description: N/A
+[2026-06-21T18:04:18.282194] | Account: 1003 | Type: DEPOSIT | Amount: ₹1000.0 | RefID: True | Description: N/A
+[2026-06-21T18:04:19.212364] | Account: 1003 | Type: WITHDRAW | Amount: ₹500.0 | RefID: True | Description: N/A
+[2026-06-21T18:04:19.999109] | Account: 1003 | Type: TRANSFER | Amount: ₹500.0 | RefID: 123 | Description: N/A

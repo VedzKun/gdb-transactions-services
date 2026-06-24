@@ -1,0 +1,36 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.11.1, pytest-7.4.3, pluggy-1.6.0 -- C:\Users\DELL\Downloads\MICRO\GDB-Micro\users_service\venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\DELL\Downloads\BT Project\BT-ECO-SYSTEM\gdb\gdb-service\transactions_service
+configfile: pytest.ini
+plugins: anyio-3.7.1, asyncio-0.21.1, cov-4.1.0
+asyncio: mode=Mode.AUTO
+collecting ... collected 9 items
+
+tests/test_transactions_service.py::TestTransactionsService::test_positive_deposit DEBUG: About to call credit_account with account_number=1003, amount=1000.0
+DEBUG: credit_result received: type=<class 'dict'>, value={'new_balance': 6000}
+PASSED
+tests/test_transactions_service.py::TestTransactionsService::test_negative_deposit_no_auth PASSED
+tests/test_transactions_service.py::TestTransactionsService::test_negative_deposit_nonexistent_account PASSED
+tests/test_transactions_service.py::TestTransactionsService::test_negative_deposit_invalid_amount PASSED
+tests/test_transactions_service.py::TestTransactionsService::test_positive_withdraw_correct_pin PASSED
+tests/test_transactions_service.py::TestTransactionsService::test_negative_withdraw_wrong_pin PASSED
+tests/test_transactions_service.py::TestTransactionsService::test_positive_transfer_valid PASSED
+tests/test_transactions_service.py::TestTransactionsService::test_positive_get_transaction_logs FAILED
+tests/test_transactions_service.py::TestTransactionsService::test_positive_get_transfer_limits FAILED
+
+================================== FAILURES ===================================
+_________ TestTransactionsService.test_positive_get_transaction_logs __________
+tests\test_transactions_service.py:244: in test_positive_get_transaction_logs
+    assert len(data["logs"]) == 2
+E   assert 0 == 2
+E    +  where 0 = len([])
+__________ TestTransactionsService.test_positive_get_transfer_limits __________
+tests\test_transactions_service.py:266: in test_positive_get_transfer_limits
+    assert response.status_code == 200
+E   assert 404 == 200
+E    +  where 404 = <Response [404 Not Found]>.status_code
+=========================== short test summary info ===========================
+FAILED tests/test_transactions_service.py::TestTransactionsService::test_positive_get_transaction_logs
+FAILED tests/test_transactions_service.py::TestTransactionsService::test_positive_get_transfer_limits
+========================= 2 failed, 7 passed in 1.53s =========================

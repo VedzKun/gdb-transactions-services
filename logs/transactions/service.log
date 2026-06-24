@@ -1,0 +1,156 @@
+2026-06-21 21:29:29,851 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:30,691 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:31,460 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:32,405 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:33,251 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:34,055 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:34,794 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:35,486 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:36,210 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:36,923 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:37,616 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:38,398 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:39,135 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:39,982 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:40,863 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:41,989 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:42,741 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:43,482 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:43,751 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,751 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,751 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,759 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,759 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,759 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,759 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,760 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,760 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,760 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,760 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,760 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,760 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,768 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,769 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,820 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:43,821 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:29:44,346 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: DB Error
+2026-06-21 21:29:45,277 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:29:49,880 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: 'total'
+2026-06-21 21:29:49,881 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: 'cnt'
+2026-06-21 21:32:50,017 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:50,758 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:51,566 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:52,318 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:53,224 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:54,182 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:54,846 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:55,537 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:56,181 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:56,826 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:57,510 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:58,204 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:58,835 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:32:59,476 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:33:00,143 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:33:00,785 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:33:01,433 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:33:02,116 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:33:02,385 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,386 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,386 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,394 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,395 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,395 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,395 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,396 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,396 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,397 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,397 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,397 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,399 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,407 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,407 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,468 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,468 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:33:02,817 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: DB Error
+2026-06-21 21:33:03,650 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:33:06,329 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: 'total'
+2026-06-21 21:33:06,329 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: 'cnt'
+2026-06-21 21:45:42,145 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:43,074 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:43,840 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:44,575 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:45,389 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:46,210 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:47,233 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:48,083 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:48,904 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:49,650 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:50,394 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:51,299 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:52,149 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:52,954 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:53,794 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:54,760 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:55,762 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:56,528 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:45:57,144 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,145 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,146 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,157 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,158 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,158 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,158 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,159 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,159 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,160 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,160 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,161 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,162 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,171 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,173 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,272 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,273 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 21:45:57,933 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: DB Error
+2026-06-21 21:45:59,022 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 21:46:02,666 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: 'total'
+2026-06-21 21:46:02,667 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: 'cnt'
+2026-06-21 23:34:04,591 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:05,405 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:06,263 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:07,293 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:08,287 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:09,352 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:10,179 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:10,998 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:11,808 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:12,528 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:13,219 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:13,851 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:14,447 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:15,011 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:15,617 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:16,240 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:16,881 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:17,471 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:17,779 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,779 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,779 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,789 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,789 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,789 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,790 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,790 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,790 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,791 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,791 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,792 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,792 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,802 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,802 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,880 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:17,880 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: object MagicMock can't be used in 'await' expression
+2026-06-21 23:34:18,263 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: DB Error
+2026-06-21 23:34:19,150 - security.jwt_validation - WARNING - Missing Authorization header
+2026-06-21 23:34:21,646 - app.repositories.transfer_limit_repository - ERROR - Error getting daily used amount: 'total'
+2026-06-21 23:34:21,646 - app.repositories.transfer_limit_repository - ERROR - Error getting daily transaction count: 'cnt'
