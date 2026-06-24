@@ -79,7 +79,7 @@ class DatabaseConnection:
             from pathlib import Path
             async with cls._pool.acquire() as conn:
                 limits_exists = await conn.fetchval(
-                    "SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_schema = 'public' AND table_name = 'transfer_limits')"
+                    "SELECT EXISTS (SELECT FROM information_schema.tables WHERE table_schema = current_schema() AND table_name = 'transfer_limits')"
                 )
                 if not limits_exists:
                     logger.info("📋 Core table 'transfer_limits' does not exist. Running transactions_schema.sql...")
