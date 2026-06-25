@@ -170,14 +170,7 @@ app.add_middleware(
     allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
-)(:\d+)?|https?://.*\.onrender\.com",
-    allow_origins=settings.CORS_ALLOWED_ORIGINS,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
 )
-
-
 # Health check endpoint
 @app.get(
     "/api/v1/health",
