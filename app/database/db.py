@@ -59,7 +59,7 @@ class DatabaseConnection:
 
         # 2. Connect pool
         try:
-            cls._pool = await asyncpg.create_pool(init=set_schema_search_path, 
+            cls._pool = await asyncpg.create_pool(setup=set_schema_search_path, 
                 host=settings.DB_HOST,
                 port=settings.DB_PORT,
                 user=settings.DB_USER,
